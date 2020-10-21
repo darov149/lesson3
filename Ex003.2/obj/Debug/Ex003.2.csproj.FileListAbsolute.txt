@@ -1,0 +1,6 @@
+C:\Users\Zaur\source\repos\GeekBrains3\Ex003.2\bin\Debug\Ex003.2.exe.config
+C:\Users\Zaur\source\repos\GeekBrains3\Ex003.2\bin\Debug\Ex003.2.exe
+C:\Users\Zaur\source\repos\GeekBrains3\Ex003.2\bin\Debug\Ex003.2.pdb
+C:\Users\Zaur\source\repos\GeekBrains3\Ex003.2\obj\Debug\Ex003.2.csproj.CoreCompileInputs.cache
+C:\Users\Zaur\source\repos\GeekBrains3\Ex003.2\obj\Debug\Ex003.2.exe
+C:\Users\Zaur\source\repos\GeekBrains3\Ex003.2\obj\Debug\Ex003.2.pdb
